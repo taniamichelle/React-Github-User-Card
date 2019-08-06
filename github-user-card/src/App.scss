@@ -40,14 +40,11 @@
 }
 
 .follower-info {
-  border: 2px solid red;
-  width: 35%;
   display: flex;
   flex-flow: column wrap;
   align-content: center;
   justify-content: space-evenly;
   margin-top: 2rem;
-  margin-left: 29rem;
 }
 
 .follower-info .follower-login {
